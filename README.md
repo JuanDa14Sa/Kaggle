@@ -6,7 +6,7 @@ My [Kaggle profile](https://www.kaggle.com/juandavsnchez)
 ---
 <h1> Competitions</h1>
 
-   *   Titanic
+   *   **Titanic**
 
 ---
 
